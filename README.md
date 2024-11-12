@@ -14,7 +14,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=70000&color=FFFFFF&center=true&width=120&height=23&lines=%3E+Hey+There!%2C" alt="Typing SVG" /></a>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=3000&color=FE428E&center=true&width=189&height=23&lines=I'm+Johirul+Islam.;+I'm+from++Bangladesh.+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=3000&color=FE428E&center=true&width=189&height=23&lines=I'm+Al+Zinan.;+I'm+from++Bangladesh.+" alt="Typing SVG" /></a>
         </samp>
         <p align="center"> 
   <samp>
@@ -28,23 +28,23 @@
 </h4>
 
 <p align="center">
- <a href="https://johir-portfolio.web.app/" target="blank">
+ <a href="https://al-zinan.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="johir" />
  </a>
- <a href="https://www.linkedin.com/in/johirul-islam99/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkein johir"/>
+ <a href="https://www.linkedin.com/in/al-zinan-bb7464248/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkein zinan"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/Masti50678584" target="_blank">
+ <a href="https://x.com/Alzinan02" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/mr.raselkhan100/" target="_blank">
+ <a href="https://www.instagram.com/alzinan4/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Rasel" />
  </a> 
- <a href="https://www.facebook.com/rasel2023boss" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rasel Khan"  />
+ <a href="https://www.facebook.com/alzinan.73" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="al zinan"  />
   </a> 
 </p>
 <br />
@@ -58,8 +58,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: johirulislam574206@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [contact here](https://johir-portfolio.web.app/contact)
+ 📧 &emsp; Reach me anytime: alzinan314@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [contact here](https://al-zinan.vercel.app/)
 
 </p>
 
